@@ -868,4 +868,8 @@ ul {
         display: flex;
     }
     
+    .imageCorousel {
+        mask-image: none;
+    }
+
 }
