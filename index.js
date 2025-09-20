@@ -67,7 +67,7 @@ prevBtn.addEventListener("click", () => {
 // });
 
 function btnChng() {
-    window.location.href = "../html/buy.html";
+    window.location.href = "html/buy.html";
 }
 
     //put everyhing into object
